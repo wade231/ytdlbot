@@ -29,7 +29,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "echo"
+      "size": "eco"
     }
   },
   "buildpacks": [
